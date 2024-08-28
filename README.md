@@ -89,7 +89,7 @@ Variant list:
 
 ### Build system image
 
-#### Exanple: Build ROCK 5B Debian11 Xfce4 image
+#### Example: Build ROCK 5B Debian11 Xfce4 image
 
 <pre>
 radxa@x86-64:~$ cd ~/debos-radxa/
